@@ -1,0 +1,5 @@
+# Attendance-System
+
+## Getting Started
+
+Install Python on the system and then run the main.py in CLI
