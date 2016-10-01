@@ -247,6 +247,6 @@ def login(enroll,passwd):
 		menu(stu_id)
 welcome()
 
-enroll_no = '130750116023' #raw_input("Please enter your enrollment no : ")
-passwd = 'nick@2211' #getpass.getpass("Please enter your password : ")
+enroll_no = raw_input("Please enter your enrollment no : ")
+passwd = getpass.getpass("Please enter your password : ")
 login(enroll_no,passwd)
