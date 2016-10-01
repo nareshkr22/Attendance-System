@@ -1,5 +1,4 @@
 # Attendance-System
-Gettting the latest feed of the Facebook Open Group. Sentimental Analysis + Full text searching of the keywords among the post
 
 ## Getting Started
 
