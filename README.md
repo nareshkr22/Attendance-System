@@ -6,10 +6,10 @@ Install Python on the system and then run the main.py in CLI
 
 ## Packages Required
 
-mechanize
+###mechanize
 
-bs4
+###bs4
 
-prettytable
+###prettytable
 
-lxml
+###lxml
